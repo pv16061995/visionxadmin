@@ -1,0 +1,9 @@
+<?php
+SESSION_START();
+define('PROJECT_TITLE','VisionEx');
+define('BASE_PATH','http://localhost/VisionEx/');
+define('URL_API','https://visionex.io:1338/');
+define('SITE_URL','https://visionex.io/');
+//$_SESSION['admin_email']="chandu2013pal@gmail.com";
+//$_SESSION['admin_id']="14";
+?>
